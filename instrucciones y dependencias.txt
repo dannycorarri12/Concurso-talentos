@@ -1,0 +1,23 @@
+para ver el swagger: http://localhost:8000/docs
+
+Para crear el entorno virtual:
+
+paso 0: ir a la terminal
+paso 1: CD a la carpeta del Proyecto
+paso 2: escribir: python -m venv venv
+paso 3: activarlo, esscribir: venv\Scripts\activate
+listo
+para desactivarlo, escribe deactivate
+
+requisitos:
+
+usar pip install + nombre del txt
+
+dependencias:
+
+fastapi==0.109.0
+uvicorn==0.27.0
+pymongo==4.6.1
+redis==5.0.1
+pydantic==2.6.0
+python-dotenv==1.0.1

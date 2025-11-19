@@ -1,0 +1,10 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+pymongo==4.6.1
+redis==5.0.1
+pydantic==2.6.0
+python-dotenv==1.0.1
+
+node JavaScript
+npm install @vitejs/plugin-react
+npm install react react-dom react-router-dom axios socket.io-client
